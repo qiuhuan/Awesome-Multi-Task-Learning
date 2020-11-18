@@ -3,7 +3,7 @@ This page contains a list of papers on multi-task learning for computer vision.
 Please create a pull request if you wish to add anything. 
 If you are interested, consider reading our recent survey paper.
 
-> [**Multi-Task Learning for Dense Prediction Tasks: A Survey**](https://arxiv.org/abs/2004.13379)
+> [**Multi-Task Learning for Dense Prediction Tasks: A Survey**](https://arxiv.org/abs/2004.13379), [code](https://github.com/SimonVandenhende/Multi-Task-Learning-PyTorch)
 >
 > [Simon Vandenhende](https://twitter.com/svandenh1), [Stamatios Georgoulis](https://twitter.com/stam_g), Wouter Van Gansbeke, Marc Proesmans, Dengxin Dai and Luc Van Gool.
 
