@@ -245,8 +245,9 @@ CVPR, 2018. [[PyTorch](https://github.com/StanfordVL/taskonomy)]
 ICCV, 2019. [[PyTorch](https://github.com/awslabs/aws-cv-task2vec)]
 
 - <a name="dwivedi2019rsa"></a> Dwivedi, K., & Roig, G.
-*[Representation similarity analysis for efficient task taxonomy & transfer learning](https://openaccess.thecvf.com/content_CVPR_2019/html/Dwivedi_Representation_Similarity_Analysis_for_Efficient_Task_Taxonomy__Transfer_Learning_CVPR_2019_paper.html)*,
+*[Representation similarity analysis for efficient task taxonomy & transfer learning](https://openaccess.thecvf.com/content_CVPR_2019/html/Dwivedi_Representation_Similarity_Analysis_for_Efficient_Task_Taxonomy__Transfer_Learning_CVPR_2019_paper.html)*, 
 CVPR, 2019. [[PyTorch](https://github.com/kshitijd20/RSA-CVPR19-release)]
+this paper provides an efficient method to quatify the feature affinity scores to analysis the similarity of tasks.
 
 <a name="robustness"></a>
 ## Robustness
