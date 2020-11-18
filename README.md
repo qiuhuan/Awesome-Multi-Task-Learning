@@ -29,7 +29,7 @@ ArXiv, 2020. [[PyTorch](https://github.com/SimonVandenhende/Multi-Task-Learning-
 - <a name="ruder2017survey"></a> Ruder, S. 
 *[An overview of multi-task learning in deep neural networks](https://arxiv.org/abs/1706.05098)*,
 ArXiv, 2017. 
-
+ 
 - <a name="zhang2017survey"></a> Zhang, Y.
 *[A survey on multi-task learning](https://arxiv.org/abs/1707.08114)*, 
 ArXiv, 2017.
