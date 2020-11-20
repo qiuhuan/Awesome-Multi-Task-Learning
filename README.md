@@ -249,6 +249,10 @@ ICCV, 2019. [[PyTorch](https://github.com/awslabs/aws-cv-task2vec)]
 CVPR, 2019. [[PyTorch](https://github.com/kshitijd20/RSA-CVPR19-release)]
 this paper provides an efficient method to quatify the feature affinity scores to analysis the similarity of tasks.
 
+- <a name="dwivedi2020rsa"></a> Dwivedi, K., & Roig, G.
+*[Duality Diagram Similarity: a generic framework for initialization selection in task transfer learning](https://arxiv.org/abs/2008.02107)*,
+ECCV, 2020, [[code](https://github.com/cvai-repo/duality-diagram-similarity)]
+
 <a name="robustness"></a>
 ## Robustness
 - <a name="maomultitask2020"></a> Mao, C., Gupta, A., Nitin, V., Ray, B., Song, S., Yang, J., & Vondrick, C.
